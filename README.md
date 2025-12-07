@@ -1,4 +1,4 @@
-# QA Browser Module 🌐
+# QA Browser Module 
 
 ```
 qa-browser-agent/
