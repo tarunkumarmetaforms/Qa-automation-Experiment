@@ -1,0 +1,19 @@
+# QA Browser Module Requirements
+
+# Core dependencies
+browsergym-core==0.13.3
+playwright>=1.55.0
+html2text
+tenacity>=8.5,<10.0
+numpy
+pillow>=11.3.0
+
+# Server dependencies
+fastapi
+uvicorn[standard]
+python-socketio>=5.11.4
+websockets
+
+# Utilities
+python-dotenv
+
